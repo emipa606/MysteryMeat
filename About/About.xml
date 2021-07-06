@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <ModMetaData>
   <name>Mystery Meat: Feed human meat to colonists! (Continued)</name>
   <packageId>Mlie.MysteryMeat</packageId>
@@ -8,34 +8,52 @@
     <li>1.0</li>
     <li>1.1</li>
     <li>1.2</li>
+    <li>1.3</li>
   </supportedVersions>
   <modDependencies />
   <loadAfter />
-  <description>Update of Ploofys mod for RimWorld 1.1
+  <description>[img]https://i.imgur.com/WAEzk68.png[/img]
+Update of Ploofys mod
 https://steamcommunity.com/sharedfiles/filedetails/?id=1412832332
 
-[img]https://i.imgur.com/GYswkZ7.png[/img]
-
-Support-chat:
-https://invite.gg/mlie
-
-Non-steam version:
-https://github.com/emipa606/MysteryMeat
-
 - Replaced the original defs with patches to avoid overwriting vanilla defs.
+- Fixed the description for butchering
+
+[img]https://i.imgur.com/7Gzt3Rg.png[/img]
+
+[table]
+	[tr]
+		[td][url=https://invite.gg/Mlie][img]https://i.imgur.com/zdzzBrc.png[/img][/url][/td]
+		[td][url=https://github.com/emipa606/MysteryMeat][img]https://i.imgur.com/kTkpTOE.png[/img][/url][/td]
+	[/tr]
+[/table]
 	
---- Original Description ---
-Colonists no longer telepathically know the exact ingredients of their mystery meat meal, even if it's their fellow colonists!
+[img]https://i.imgur.com/NOW7jU1.png[/img]
+
+Colonists no longer telepathically know the exact ingredients of their mystery meat meal, even if it&apos;s their fellow colonists!
 
 This is my very first mod so help with finding incompatabilities and tips are appreciated!
 
 Changes some colonist thoughts related to human meat meals to be slightly more realistic, colonists will no longer be able to telepathically know what is in their meals.
-"Cooked cannibalism -25" has been switched to "Mystery meat -4"
+&quot;Cooked cannibalism -25&quot; has been switched to &quot;Mystery meat -4&quot;
 
 Now only the cook who butchered the corpse themselves knows that it happened.
-"We butchered humanlike -6" has been altered to "Suspicious 'Hey, where are they taking that corpse?' -1"
+&quot;We butchered humanlike -6&quot; has been altered to &quot;Suspicious &apos;Hey, where are they taking that corpse?&apos; -1&quot;
 
-To add balance I have nerfed the "cooked cannibalism" mood buff from +15 mood to +9 mood.
+To add balance I have nerfed the &quot;cooked cannibalism&quot; mood buff from +15 mood to +9 mood.
 
-This mod is intended for players who prefer a "soylent green" approach to colony food management.</description>
+This mod is intended for players who prefer a &quot;soylent green&quot; approach to colony food management.
+
+
+[img]https://i.imgur.com/Rs6T6cr.png[/img]
+[list]
+[*] See if the the error persists if you just have this mod and its requirements active.
+[*] If not, try adding your other mods until it happens again.
+[*] Post your error-log using [url=https://steamcommunity.com/workshop/filedetails/?id=818773962]HugsLib[/url] and command Ctrl+F12
+[*] For best support, please use the Discord-channel for error-reporting.
+[*] Do not report errors by making a discussion-thread, I get no notification of that.
+[*] If you have the solution for a problem, please post it to the GitHub repository.
+[/list]
+</description>
 </ModMetaData>
+
