@@ -1,5 +1,8 @@
 # Changelog for MysteryMeat
 
+1.4.2 - The 1.4 auto-test update did not publish for some reason
+
+
 1.4.1 - Mod updated for 1.4 and passed autotests
 
 

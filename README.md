@@ -43,3 +43,4 @@ This mod is intended for players who prefer a "soylent green" approach to colony
 
 
 
+https://steamcommunity.com/sharedfiles/filedetails/changelog/2102395259]Last updated 2023-01-09
