@@ -1,5 +1,8 @@
 # Changelog for MysteryMeat
 
+1.4.3 - Fixed missing Ideology specific patches
+
+
 1.4.2 - The 1.4 auto-test update did not publish for some reason
 
 

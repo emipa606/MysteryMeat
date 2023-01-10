@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Patch>
+  <Operation Class="PatchOperationSequence">
+    <success>Always</success>
+    <operations>
+      <li Class="PatchOperationReplace">
+        <xpath>/Defs/ThoughtDef[defName = "AteHumanlikeMeatAsIngredient"]/stages</xpath>
+        <value>
+          <stages>
+            <li>
+              <label>mystery meat</label>
+              <description>What's in this meal, Pork? Veal? Whatever it is, I don't like it..</description>
+              <baseMoodEffect>-4</baseMoodEffect>
+            </li>
+          </stages>
+        </value>
+      </li>
+      <li Class="PatchOperationReplace">
+        <xpath>/Defs/ThoughtDef[defName = "AteHumanlikeMeatAsIngredientCannibal"]/stages</xpath>
+        <value>
+          <stages>
+            <li>
+              <label>cooked cannibalism</label>
+              <description>I ate a meal containing a strange new meat. It's... Tasty!</description>
+              <baseMoodEffect>9</baseMoodEffect>
+            </li>
+          </stages>
+        </value>
+      </li>
+      <li Class="PatchOperationReplace">
+        <xpath>/Defs/ThoughtDef[defName = "KnowButcheredHumanlikeCorpse"]/stages</xpath>
+        <value>
+          <stages>
+            <li>
+              <label>suspicious</label>
+              <description>Hey, where are they taking that corpse?</description>
+              <baseMoodEffect>-1</baseMoodEffect>
+            </li>
+          </stages>
+        </value>
+      </li>
+    </operations>
+  </Operation>
+</Patch>
